@@ -15,22 +15,22 @@ I also changed the chart title from an HTML element above the SVG, to part of th
 ### Feedback
 Throughout the course of the project, I asked three people for feeback on my visualization.  
 
-##### Person 1
-"The lines are too far apart.  It makes it difficult to compare the two countries."  I took this advice and changed the measure to deviation from the mean rather than absolute temperature as discussed above.
+#### Person 1
+"The lines are too far apart.  It makes it difficult to compare the two countries."  I took this advice and changed the y axis to deviation from the mean rather than absolute temperature as discussed above.
 
-##### Person 2
-"There are too many countries included in the analysis.  I can't tell what is going on."  I took this advice as well, and reduced the number of countries to two.  I originally had five, but this no longer worked after moving the scale to deviation from the mean.  
+#### Person 2
+"There are too many lines on the chart.  I can't really tell what is going on."  I took this advice as well, and reduced the number of countries to two.  I originally had five, but this no longer worked after changing the y axis to deviation from the mean.  
 
-##### Person 3
+#### Person 3
 "The chart looks good, but the title is off center."  I centered the title by making it a part of the SVG instead of placing and HTML object above.
 
 
 ### Resources
-##### Data Source:
+#### Data Source:
 
 Berkely Earth - https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data 
 
-##### Analysis and Visualization Sources:
+#### Analysis and Visualization Sources:
 
 http://dimplejs.org/
 https://d3js.org/
