@@ -2,6 +2,4 @@
 July Land Temperatures Compared to Average Over Time
 
 
-```{html}
-fjdafljdslf
-```
+
