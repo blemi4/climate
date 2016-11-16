@@ -3,8 +3,6 @@
 ### Summary
 The chart below shows the difference in warming trends between the United States and Greenland.  Throughout the time period, temperatures vary prett widely from year to year with above average years frequently followed by below average years.  However, in the last 15-25 years temperatures have generally been above average with several record high averages mixed in.  Temperatures seem to be rising more severely in Greenland, which is even more troubling due to the polar ice caps melting.
 
-In the United States temperature increases haven't been easily perceivable -- potentially a reason for the lack of urgency on the issue.  However, temperature increases in Greenland have been more drastic over the last 25 year or so.  What's more, rising temperatures in Greenland are even more troubling due to the polar ice caps melting causing sea level rise and several other issues.
-
 ![alt text](https://github.com/blemi4/climate/blob/master/final-vis.png?raw=true)
 
 ### Design
