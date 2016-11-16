@@ -33,8 +33,11 @@ Berkely Earth - https://www.kaggle.com/berkeleyearth/climate-change-earth-surfac
 #### Analysis and Visualization Sources:
 
 http://dimplejs.org/
+
 https://d3js.org/
+
 http://stackoverflow.com/
+
 https://udacity.com/
 
 
